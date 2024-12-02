@@ -1,0 +1,8 @@
+inp	a	b	0
+AND	a	b	and
+NAND	1	b	nand
+OR	a	b	or
+NOR	a	b	nor
+XOR	a	b	xor
+XNOR	a	b	xnor
+out	a	b	and	nand	or	nor	xor	xnor	0
